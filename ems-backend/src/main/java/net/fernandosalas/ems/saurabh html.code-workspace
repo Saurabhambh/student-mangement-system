@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../../../../saurabh html"
+		},
+		{
+			"path": "../../../../../../../../../../../myportfolio"
+		},
+		{
+			"path": "../../../../../../../../../../../Gym"
+		},
+		{
+			"path": "../../../../../../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "myportfolio"
+	}
+}
